@@ -92,7 +92,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 ### Name : Shankar S.S
 ### Reg NO : 212221240052
-```
+```c
 #include "main.h"
 
 void SystemClock_Config(void);
